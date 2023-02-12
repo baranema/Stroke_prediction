@@ -1,4 +1,4 @@
-# Stroke_prediction
+# Stroke Prediction Project
 
 Strokes are one of the leading causes of death and disability worldwide. Early detection and prediction of stroke risk can lead to better treatment outcomes and improved patient prognoses. This project aims to analyse how machine learning can help with that.
 
